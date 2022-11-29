@@ -1,7 +1,7 @@
 ### Hi!👋 I'am Firdaus
 
 
-- 🔭 I’m currently studying on [@telkomuniversity](https://telkomuniversity.ac.id/)
+- 🔭 I’m currently studying at [@telkomuniversity](https://telkomuniversity.ac.id/)
 - 🌱 I’m currently learning about backend and devops
 - 💬 Ask me about my repository if there's any mistake
 
