@@ -22,10 +22,10 @@ Backend & DevOps engineer · AI Agents · Blockchain
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/firdaus-putra-kurniyanto">
+<a href="https://www.linkedin.com/in/firdaus-putra-kurniyanto" style="text-decoration:none">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://discord.com/users/vnnyx">
+<a href="https://discord.com/users/vnnyx" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Discord-vnnyx-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 </a>
