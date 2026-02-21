@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Firdaus Putra Kurniyanto
 
-Backend, DevOps, AI Agent development & Blockchain enthusiast
+Backend & DevOps engineer · AI Agents · Blockchain
 
 ---
 
